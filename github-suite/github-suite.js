@@ -4,7 +4,7 @@
 // @version      1.7.0
 // @description  Combines a GitHub folder download menu, file-type colors/icons, image preview galleries, a HTML preview button, a wiki sidebar toggle, a one-click recursive git clone command copier, a DeepWiki entry in the repo About sidebar, and hides "Report repository".
 // @author       arrupe
-// @license      WTFPL
+// @license      MIT
 // @match        https://github.com/*
 // @noframes
 // @run-at       document-idle

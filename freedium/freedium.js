@@ -4,7 +4,7 @@
 // @version      2.1.0
 // @description  Replaces Medium's Follow button with a custom-styled "Open Mirror" button.
 // @author       arrupe
-// @license      WTFPL
+// @license      MIT
 // @match        https://*/*
 // @run-at       document-idle
 // @noframes
